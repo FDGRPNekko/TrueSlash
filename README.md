@@ -27,7 +27,7 @@
 | 📺 Android TV | ✅ Доступно | APK |
 | 🖥️ Windows 10 / 11 | ✅ Доступно | Installer, Portable |
 | 🐧 Linux | ✅ Доступно | DEB, RPM, Arch, AppImage, TAR.GZ |
-| 🍎 iOS | 🚧 В разработке | Скоро |
+| 🍎 iOS | ✅ Доступно | TestFlight |
 
 **[➡️ Скачать TrueSlash](https://trueslash.ru)**
 
