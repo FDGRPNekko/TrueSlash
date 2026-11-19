@@ -4,7 +4,7 @@
 ![Android TV](https://img.shields.io/badge/Android_TV-Supported-3DDC84)
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6)
 ![Linux](https://img.shields.io/badge/Linux-Supported-FCC624?logo=linux&logoColor=black)
-![iOS](https://img.shields.io/badge/iOS-In_Development-lightgrey?logo=apple)
+![iOS](https://img.shields.io/badge/iOS-Support-lightgrey?logo=apple)
 ![Release](https://img.shields.io/github/v/release/FDGRPNekko/TrueSlash-for-Android?label=Latest%20Release&color=22c55e)
 
 **TrueSlash** - современный мультиплатформенный VPN-клиент на базе Xray-core с поддержкой современных протоколов, расширенной маршрутизацией, автоматическим выбором серверов и удобным управлением VPN-подписками.
